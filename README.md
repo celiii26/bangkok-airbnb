@@ -23,9 +23,17 @@ Data berisi detail mengenai properti listing di kota Bangkok yang terdiri dari n
 ## 4. Project Structure
 ```bash
 📁 bangkok-airbnb/
-├── 📊 Capstone2_AirbnbAnalysis.ipynb 
+├── 📊 Capstone2_AirbnbAnalysis.ipynb        # analysis report
+├── 📊 Capstone2-dashboard-Airbnb.twbx       # dashboard
+├── 📖 dataset
+    ├── Airbnb Listings Bangkok.csv          # raw data
+    ├── Cleaned_Airbnb Listings Bangkok.csv  # cleaned data
+    ├── Bangkok-districts.geojson            # geojson of bangkok map
 ├── 📝 README.md
 ```
+### Delivarables
+- [Presentation Link](https://www.canva.com/design/DAGwf1gVV9Q/hiEl4ZXtEq3idXzSkkyBuQ/edit?utm_content=DAGwf1gVV9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Tableau Dashboard Link](https://public.tableau.com/shared/ZYYCB7D8Q?:display_count=n&:origin=viz_share_link)
 
 ## 5. Summary of Findings
 
